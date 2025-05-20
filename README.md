@@ -1,3 +1,6 @@
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+
 FlashFuelBot is a fully automated Telegram business bot designed to sell private hacking, tech, and automation scripts. It supports cryptocurrency payments in BTC, ETH, and USDT (TRC20), automatically delivers products after payment, and includes advanced features like:
 
 • Auto license generator  
